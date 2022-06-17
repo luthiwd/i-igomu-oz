@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://luthiwd.github.io/myportfolio/",
+    "imagebaseurl":"https://portfolio-inigomunoz.netlify.app/",
     "name": "Íñigo Muñoz",
     "role": "Full Stack Web Developer",
     "roleDescription": " Apasionado por la programación y el desarrollo de aplicaciones web. Busco soluciones a problemas para hacer la vida más sencilla.",
@@ -22,7 +22,7 @@ let resumeData = {
       ],
     "aboutme":"Actualmente he terminado el Bootcamp de Full Stack Web Developer en Ironhack. Ha sido una experiencia muy enriquecedora, que me ha ayudado a crecer como programador y como persona. Busco trabajo como Full Stack, aunque estoy abierto a trabajar tanto en el Frontend como en el Backend",
     "address":"Spain",
-    "website":"https://luthiwd.github.io/myportfolio",
+    "website":"https://portfolio-inigomunoz.netlify.app/",
     "education":[
       {
         "UniversityName":"Ironhack",
@@ -74,22 +74,26 @@ let resumeData = {
       {
         "name":"Cats",
         "description":"Esquiva Cthulus y captura latas, puedes montarte en una Conga!!!",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655478416/imagesportfolio/logocats_sbnjg9.png"
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655478416/imagesportfolio/logocats_sbnjg9.png",
+        "url": "https://luthiwd.github.io/Cats/"
       },
       {
         "name":"Vinegar",
         "description":"Aplicación destinada a los propietarios de gimnasios y entrenadores. Permite crear ejercicios y rutinas.",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655478426/imagesportfolio/bggym_eem65t.jpg"
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655478426/imagesportfolio/bggym_eem65t.jpg",
+        "url": "https://vinegar-trainer.herokuapp.com/"
       },
       {
         "name":"Miecocaja",
         "description":"MiEcoCaja es una plataforma para los que buscan una manera más sostenible y ecológica de tener los mejores alimentos.",  
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655478469/imagesportfolio/Captura_desde_2022-06-13_13-06-49_kaqhft.png"
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655478469/imagesportfolio/Captura_desde_2022-06-13_13-06-49_kaqhft.png",
+        "url": "https://ecocajas.netlify.app/"
       },
       {
         "name":"BeeMoving: En desarrollo",
         "description":"Aplicación para el control de colmenas de abejas.",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655480409/imagesportfolio/Captura_desde_2022-06-17_17-39-23_fh4y9k.png"
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655480409/imagesportfolio/Captura_desde_2022-06-17_17-39-23_fh4y9k.png",
+        "url": ""
       }
     ],
     "testimonials":[
