@@ -32,7 +32,7 @@ let resumeData = {
       ],
     "aboutme":"Actualmente he terminado el Bootcamp de Full Stack Web Developer en Ironhack. Ha sido una experiencia muy enriquecedora, que me ha ayudado a crecer como programador y como persona. Busco trabajo como Full Stack, aunque estoy abierto a trabajar tanto en el Frontend como en el Backend",
     "address":"Spain",
-    "website":"https://portfolio-inigomunoz.netlify.app/",
+    "website":"https://inigomunoz.netlify.app/",
     "education":[
       {
         "UniversityName":"Ironhack",
