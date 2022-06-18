@@ -30,7 +30,7 @@ let resumeData = {
           "className":"fa fa-calendar"
         }
       ],
-    "aboutme":"Actualmente he terminado el Bootcamp de Full Stack Web Developer en Ironhack. Ha sido una experiencia muy enriquecedora, que me ha ayudado a crecer como programador y como persona. Busco trabajo como Full Stack, aunque estoy abierto a trabajar tanto en el Frontend como en el Backend",
+    "aboutme":"Actualmente he terminado el Bootcamp de Full Stack Web Developer en Ironhack. Ha sido una experiencia muy enriquecedora, que me ha ayudado a crecer como programador y como persona. Busco trabajo como Full Stack, aunque estoy abierto a trabajar tanto en el Frontend como en el Backend. Me encanta programar y siempre tengo una gran cantidad de ideas",
     "address":"Spain",
     "website":"https://inigomunoz.netlify.app/",
     "education":[
@@ -84,37 +84,37 @@ let resumeData = {
       {
         "name":"Cats",
         "description":"Esquiva Cthulus y captura latas, puedes montarte en una Conga!!!",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655537118/imagesportfolio/keys_a2ubie.png",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546449/imagesportfolio/cats_ifnaqy.png",
         "url": "https://luthiwd.github.io/Cats/"
       },
       {
         "name":"Vinegar",
         "description":"Aplicación destinada a los propietarios de gimnasios y entrenadores. Permite crear ejercicios y rutinas.",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655537116/imagesportfolio/vinegar_mqjz0i.png",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546449/imagesportfolio/vinegar_1_y7kprc.png",
         "url": "https://vinegar-trainer.herokuapp.com/"
       },
       {
         "name":"Miecocaja",
         "description":"MiEcoCaja es una plataforma para los que buscan una manera más sostenible y ecológica de tener los mejores alimentos.",  
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655537213/imagesportfolio/miecocaja_ws6kxg.png",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546450/imagesportfolio/miecocaja_1_xz5ub7.png",
         "url": "https://ecocajas.netlify.app/"
       },
       {
         "name":"BeeMoving: En desarrollo",
         "description":"Aplicación para la gestión, control, mantenimiento de colmenas de abejas.",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655537213/imagesportfolio/beemoving_dwmf7d.png",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546452/imagesportfolio/beemoving_w8gzkc.png",
         "url": ""
       },
       {
         "name":"Cerveza Belona",
         "description":"Tienda de Cerveza Artesanal Belona. Desarrollada en Prestashop",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655536837/imagesportfolio/Belona_dmmkm6.png",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546450/imagesportfolio/belona_qmgrwi.png",
         "url": "https://cervezabelona.com/"
       },
       {
         "name":"ALMA",
         "description":"Web para la Asociación literaria medieval Arthedain, realizada con Wordpress",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655537121/imagesportfolio/alma_fwu3oo.png",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546449/imagesportfolio/alma_1_ec2ib5.png",
         "url": "https://github.com/luthiwd/Alma-Web"
       }
     ],

@@ -114,7 +114,6 @@ export default class Resume extends Component {
             <li className="hard-li" title="Github"><FaGithub style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="Git"><FaGitSquare style={{fontSize: "45px"}}/></li>
           </ul>
-          
         </div>
       </div>
       </section>
