@@ -74,26 +74,38 @@ let resumeData = {
       {
         "name":"Cats",
         "description":"Esquiva Cthulus y captura latas, puedes montarte en una Conga!!!",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655478416/imagesportfolio/logocats_sbnjg9.png",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655537118/imagesportfolio/keys_a2ubie.png",
         "url": "https://luthiwd.github.io/Cats/"
       },
       {
         "name":"Vinegar",
         "description":"Aplicación destinada a los propietarios de gimnasios y entrenadores. Permite crear ejercicios y rutinas.",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655478426/imagesportfolio/bggym_eem65t.jpg",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655537116/imagesportfolio/vinegar_mqjz0i.png",
         "url": "https://vinegar-trainer.herokuapp.com/"
       },
       {
         "name":"Miecocaja",
         "description":"MiEcoCaja es una plataforma para los que buscan una manera más sostenible y ecológica de tener los mejores alimentos.",  
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655478469/imagesportfolio/Captura_desde_2022-06-13_13-06-49_kaqhft.png",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655537213/imagesportfolio/miecocaja_ws6kxg.png",
         "url": "https://ecocajas.netlify.app/"
       },
       {
         "name":"BeeMoving: En desarrollo",
-        "description":"Aplicación para el control de colmenas de abejas.",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655480409/imagesportfolio/Captura_desde_2022-06-17_17-39-23_fh4y9k.png",
+        "description":"Aplicación para la gestión, control, mantenimiento de colmenas de abejas.",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655537213/imagesportfolio/beemoving_dwmf7d.png",
         "url": ""
+      },
+      {
+        "name":"Cerveza Belona",
+        "description":"Tienda de Cerveza Artesanal Belona. Desarrollada en Prestashop",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655536837/imagesportfolio/Belona_dmmkm6.png",
+        "url": "https://cervezabelona.com/"
+      },
+      {
+        "name":"ALMA",
+        "description":"Web para la Asociación literaria medieval Arthedain, realizada con Wordpress",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655537121/imagesportfolio/alma_fwu3oo.png",
+        "url": "https://github.com/luthiwd/Alma-Web"
       }
     ],
     "testimonials":[
@@ -104,6 +116,10 @@ let resumeData = {
       {
         "description":"Siempre tiene una idea que desarrollar, su mente no para.",
         "name":"Compañer@ de Bootcamp"
+      },
+      {
+        "description":"Maestro del BackEnd",
+        "name":"Profesor del Bootcamp"
       }
     ]
   }
