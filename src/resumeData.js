@@ -106,6 +106,12 @@ let resumeData = {
         "url": ""
       },
       {
+        "name":"Uhu Wiki",
+        "description":"Wiki realizada para la Universidad de Huelva, para consultas de profesores y alumnos",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655982892/imagesportfolio/uhu_mn5ost.png",
+        "url": "https://ayudame.uhu.es/docs/"
+      },
+      {
         "name":"Cerveza Belona",
         "description":"Tienda de Cerveza Artesanal Belona. Desarrollada en Prestashop",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546450/imagesportfolio/belona_qmgrwi.png",
