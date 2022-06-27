@@ -103,7 +103,7 @@ let resumeData = {
         "name":"BeeMoving: En desarrollo",
         "description":"Aplicación para la gestión, control, mantenimiento de colmenas de abejas.",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546452/imagesportfolio/beemoving_w8gzkc.png",
-        "url": ""
+        "url": "https://beemoving.netlify.app/"
       },
       {
         "name":"Uhu Wiki",
