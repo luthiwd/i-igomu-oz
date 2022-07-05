@@ -25,9 +25,9 @@ let resumeData = {
           "className":"fa fa-envelope"
         },
         {
-          "name":"calendar",
-          "url":"https://calendly.com/inigo-munoz/30min",
-          "className":"fa fa-calendar"
+          "name":"cv",
+          "url":"https://drive.google.com/file/d/1vwwl0IP4xo4SavWTzg5az0hhdpZwuI9T/view?usp=sharing",
+          "className":"fa fa-file-o"
         }
       ],
     "aboutme":"Actualmente he terminado el Bootcamp de Full Stack Web Developer en Ironhack. Ha sido una experiencia muy enriquecedora, que me ha ayudado a crecer como programador y como persona. Busco trabajo como Full Stack, aunque estoy abierto a trabajar tanto en el Frontend como en el Backend. Me encanta programar y siempre tengo una gran cantidad de ideas",
