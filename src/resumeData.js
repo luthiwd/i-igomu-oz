@@ -31,7 +31,7 @@ let resumeData = {
         }
       ],
     "aboutme":"Actualmente he terminado el Bootcamp de Full Stack Web Developer en Ironhack. Ha sido una experiencia muy enriquecedora, que me ha ayudado a crecer como programador y como persona. Busco trabajo como Full Stack, aunque estoy abierto a trabajar tanto en el Frontend como en el Backend. Me encanta programar y siempre tengo una gran cantidad de ideas",
-    "address":"Spain",
+    "address":"Higuera de la Sierra, Huelva, España",
     "website":"https://inigomunoz.netlify.app/",
     "education":[
       {
