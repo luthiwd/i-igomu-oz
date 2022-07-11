@@ -100,12 +100,6 @@ let resumeData = {
         "url": "https://ecocajas.netlify.app/"
       },
       {
-        "name":"BeeMoving: En desarrollo",
-        "description":"Aplicación para la gestión, control, mantenimiento de colmenas de abejas.",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546452/imagesportfolio/beemoving_w8gzkc.png",
-        "url": "https://beemoving.netlify.app/"
-      },
-      {
         "name":"Uhu Wiki",
         "description":"Wiki realizada para la Universidad de Huelva, para consultas de profesores y alumnos",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655982892/imagesportfolio/uhu_mn5ost.png",
@@ -123,6 +117,14 @@ let resumeData = {
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546449/imagesportfolio/alma_1_ec2ib5.png",
         "url": "https://github.com/luthiwd/Alma-Web"
       }
+    ],
+    "development":[
+      {
+        "name":"BeeMoving: En desarrollo",
+        "description":"Aplicación para la gestión, control, mantenimiento de colmenas de abejas.",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546452/imagesportfolio/beemoving_w8gzkc.png",
+        "url": "https://beemoving.netlify.app/"
+      },
     ],
     "testimonials":[
       {
