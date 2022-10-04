@@ -44,19 +44,27 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Universidad de Huelva",
-        "specialization":"Técnico de sistemas Moodle y Zoom",
-        "MonthOfLeaving":"Apr",
+        "CompanyName":"Ironhack",
+        "specialization":"Teacher Assistant",
+        "MonthOfEnter":"Sept",
+        "MonthOfLeaving":"Now",
         "YearOfLeaving":"2022",
-        "Achievements":"Resolver todas las incidencias que surgieron con Moodle o Zoom del profesorado y alumnado de la Universidad. Programación de la nueva Wiki de la Universidad. Aprender desde cero una nueva aplicación como BookStack. Completar la integración en 2 meses. Gestionar la nueva Wiki de la universidad, coordinando al equipo,llevando todo el peso del proyecto."
+        "Achievements":`Ayudar a los estudiantes con sus dudas durante los ejercicios. Tutorizar a los alumnos durante el desarrollo de sus proyectos.Revisar los ejercicios realizados por los alumnos, Stack MERN, HTML, CSS, Bootstrap, Material UI.Organizar actividades y eventos como talleres, retos de desarrollo y otras actividades. Trabajar estrechamente con el Instructor principal para asegurar que los estudiantes dominen el contenido, reciban oportunamente recibir una retroalimentación/calificación oportuna, y sentirse bien apoyado en el programa.`
       },
       {
-        "CompanyName":"Dalkia S.A",
-        "specialization":"Técnico y supervisión de la instalación del Anda@red",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2011",
-        "Achievements":"Mejora de la atención al usuario, facilitando la resolución de incidencias. Mejora de las instalaciones realizadas en los colegios 2.0 (Exp.239 & Exp33) de la Junta de Andalucía.Trabajar en equipo con los compañeros para la optimización de la configuración de servidores, ordenadores, redes y equipos.Coordinar con los equipos de instalación de 2 a 5 personas para un óptimo aprovechamiento del material y del tiempo."
-      }
+        "CompanyName":"Universidad de Huelva",
+        "specialization":"IT & Full Stack developer",
+        "MonthOfEnter":"March",
+        "MonthOfLeaving":"Apr",
+        "YearOfLeaving":"2022",
+        "Achievements":"Soporte informático para diferentes herramientas educativas. Principalmente Moodle, Zoom y Microsoft Teams. Uso del marco BookStack para implementar un wiki para estudiantes y profesores. Creación de una UX/UI. UX/UI para las consultas de problemas. Esto redujo el número de incidencias que llegaban a nuestros técnicos. Desarrollo de nuevas funcionalidades utilizando PHP para el wiki y cambios en los entornos LiveChat e ItopHub entornos. Dirigir el equipo de creación de contenidos, utilizando Markdown como lenguaje. Gestionar el chat y el ticketing para el escalado y el soporte. Mejora de la creación e implementación de contenidos, reduciendo en un 50% el tiempo necesario para publicar nuevos contenido, añadiendo aplicaciones de Markdown para el diseño y la estructura de las entradas y haciéndolo más fácil para el equipo." },
+      {
+        "CompanyName":"Freelance",
+        "specialization":"Full Stack web developer: Wordpress and Prestashop",
+        "MonthOfEnter":"May 2017",
+        "MonthOfLeaving":"March",
+        "YearOfLeaving":"2021",
+        "Achievements":"Autodidacta de Wordpress y Prestashop. Diseño, desarrollo, implantación y optimización web para dos sitios: una empresa de cerveza artesanal y una empresa de asociación cultural. Personalización de temas y cambio de comportamientos por defecto para adaptarse a las necesidades de los proyectos. Personalización de la pasarela de pago, configuración e integración para un plugin de ecommerce. Mantenimiento de la web, resolución de problemas y creación de contenidos. Mantener y evolucionar las dos webs utilizando metodologías ágiles y haciendo a los clientes parte del del proyecto. Dirigir el equipo de creación de contenidos."}
     ],
     "skillsDescription":"",
     "skills":[ 
@@ -125,6 +133,12 @@ let resumeData = {
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546452/imagesportfolio/beemoving_w8gzkc.png",
         "url": "https://beemoving.netlify.app/"
       },
+      {
+        "name":"PetCalendary: En desarrollo",
+        "description":"Aplicación para la gestión, control de mascotas.",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/c_scale,h_191,w_215/v1664874032/petsdiary/petcal_mcbbgu.png",
+        "url": "https://github.com/luthiwd/petsserver"
+      }
     ],
     "testimonials":[
       {
