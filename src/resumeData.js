@@ -99,7 +99,7 @@ let resumeData = {
         "name":"Vinegar",
         "description":"Aplicación destinada a los propietarios de gimnasios y entrenadores. Permite crear ejercicios y rutinas.",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546449/imagesportfolio/vinegar_1_y7kprc.png",
-        "url": "https://vinegar.cyclic.app"
+        "url": "https://vinegar-y9kl.onrender.com/"
       },
       {
         "name":"Miecocaja",
