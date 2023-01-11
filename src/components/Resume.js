@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { SiReact, SiJavascript, SiExpress, SiHandlebarsdotjs, SiMongodb, SiTailwindcss, SiPrestashop } from 'react-icons/si'
+import { SiReact, SiJavascript, SiExpress, SiHandlebarsdotjs, SiMongodb, SiTailwindcss, SiPrestashop, SiTypescript, SiBabel } from 'react-icons/si'
 import { FaHtml5, FaCss3Alt, FaNodeJs, FaBootstrap, FaWordpress, FaGitSquare, FaGithub } from 'react-icons/fa'
 export default class Resume extends Component {
   render() {
@@ -103,17 +103,19 @@ export default class Resume extends Component {
             <li className="hard-li" title="Html5"><FaHtml5 style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="Css3"><FaCss3Alt style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="JavaScript"><SiJavascript style={{fontSize: "45px"}}/></li>
+            <li className="hard-li" title="TypeScript"><SiTypescript style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="React"><SiReact style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="NodeJS"><FaNodeJs style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="ExpressJS"><SiExpress style={{fontSize: "45px"}}/></li>
+            <li className="hard-li" title="Git"><SiBabel style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="Handlebars"><SiHandlebarsdotjs style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Tailwinds"><SiTailwindcss style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="MongoDB / Mongoose"><SiMongodb style={{fontSize: "45px"}}/></li>
+            <li className="hard-li" title="Tailwinds"><SiTailwindcss style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="Bootstrap"><FaBootstrap style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Prestashop"><SiPrestashop style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Wordpress"><FaWordpress style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="Github"><FaGithub style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="Git"><FaGitSquare style={{fontSize: "45px"}}/></li>
+            <li className="hard-li" title="Wordpress"><FaWordpress style={{fontSize: "45px"}}/></li>
+            <li className="hard-li" title="Prestashop"><SiPrestashop style={{fontSize: "45px"}}/></li>
           </ul>
         </div>
       </div>

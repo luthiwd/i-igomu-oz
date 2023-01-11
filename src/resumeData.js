@@ -30,9 +30,9 @@ let resumeData = {
           "className":"fa fa-file-o"
         }
       ],
-    "aboutme":"Actualmente he terminado el Bootcamp de Full Stack Web Developer en Ironhack. Ha sido una experiencia muy enriquecedora, que me ha ayudado a crecer como programador y como persona. Busco trabajo como Full Stack, aunque estoy abierto a trabajar tanto en el Frontend como en el Backend. Me encanta programar y siempre tengo una gran cantidad de ideas",
-    "address":"Higuera de la Sierra, Huelva, España",
-    "website":"https://inigomunoz.netlify.app/",
+    "aboutme":"Me encanta desarrollar para hacer la vida de los demás mas fácil. Me apasiona la informática y todas las herramientas que podemos usar, ya sea software o hardware. Disfruto buscando recursos de programación para aumentar mi eficacia y eficiencia. A nivel laboral, me considero una persona tenaz y resolutiva. Me desenvuelvo bien trabajando tanto en equipo como en solitario y tengo buena capacidad de adaptación. Actualmente, mis competencias abarca React, JavaScript, TypeScript, HTML, CSS, MongoDB (NoSQL DB), Express, NodeJS, Mongoose, Bootstrap, Stripe, Git, Postman, Handlebars...¡Estoy muy motivado por seguir creciendo y aprendiendo en el mundo de la programación y el desarrollo!",
+    // "address":"annattar@gma",
+    // "website":"https://inigomunoz.netlify.app/",
     "education":[
       {
         "UniversityName":"Ironhack",
@@ -124,15 +124,16 @@ let resumeData = {
         "description":"Web para la Asociación literaria medieval Arthedain, realizada con Wordpress",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546449/imagesportfolio/alma_1_ec2ib5.png",
         "url": "https://github.com/luthiwd/Alma-Web"
-      }
-    ],
-    "development":[
+      },
       {
         "name":"BeeMoving: En desarrollo",
         "description":"Aplicación para la gestión, control, mantenimiento de colmenas de abejas.",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546452/imagesportfolio/beemoving_w8gzkc.png",
         "url": "https://beemoving.netlify.app/"
       },
+
+    ],
+    "development":[
       {
         "name":"PetCalendary: En desarrollo",
         "description":"Aplicación para la gestión, control de mascotas.",
@@ -142,8 +143,8 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"Alguien que siempre esta dispuesto a enseñar.",
-        "name":"Compañer@ de Bootcamp"
+        "description":"Durante el bootcamp de Desarrollo Web, Iñigo se destacó como uno de los mejores estudiantes, continuamente demostrando una gran dedicación e interés por la materia y las diferentes formas de aplicar funcionalidades complejas. También demostró grandes habilidades de trabajo en equipo y soporte a sus compañeros, siempre apoyando de forma muy paciente y didacta. Al final entregó tres grandes proyectos excediendo en todos los requisitos establecidos. Sin duda cualquier empresa conseguiría un desarrollador con excelentes cualidades técnicas y personales al contratar a Iñigo!",
+        "name":"Jorge Luis Berrizbeitia Rivas Teach Lead"
       },
       {
         "description":"Siempre tiene una idea que desarrollar, su mente no para.",
