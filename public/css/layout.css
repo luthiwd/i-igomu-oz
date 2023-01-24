@@ -170,7 +170,7 @@ ul#nav li a {
 	text-decoration: none;
    text-align: left;
    color: #fff;
-
+   
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
 	-o-transition: color .2s ease-in-out;
@@ -179,7 +179,9 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li a:hover  {color: #01BF81 !important; }
+ul#nav li a.button:active {color: #01BF81 !important; }
+ul#nav li.current a { color: #01BF81 !important; }
 
 
 /* ------------------------------------------------------------------ */
@@ -194,7 +196,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #01BF81 !important; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
