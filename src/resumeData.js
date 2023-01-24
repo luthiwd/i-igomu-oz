@@ -139,7 +139,13 @@ let resumeData = {
         "description":"Aplicación para la gestión, control de mascotas.",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/c_scale,h_191,w_215/v1664874032/petsdiary/petcal_mcbbgu.png",
         "url": "https://github.com/luthiwd/petsserver"
-      }
+      },
+      {
+        "name":"Marvelous: En desarrollo",
+        "description":"Aplicación para consultar API de Marvel.",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1674583445/marvelproject/marvelous_atlaue.png",
+        "url": "https://marvelousapi.netlify.app"
+      },
     ],
     "testimonials":[
       {
