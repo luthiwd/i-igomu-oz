@@ -26,7 +26,7 @@ let resumeData = {
         },
         {
           "name":"cv",
-          "url":"https://docs.google.com/document/d/1qPWszz6pC5MQUL5NJUwN4gHvGD2YUhLeOGAGsoQOP0o/edit?usp=sharing",
+          "url":"https://drive.google.com/file/d/1mh_BkDRfPGhDoti0vl8WFnt-1pNX_Rqo/view?usp=share_link",
           "className":"fa fa-file-o"
         }
       ],
