@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { SiReact, SiJavascript, SiExpress, SiHandlebarsdotjs, SiMongodb, SiTailwindcss, SiPrestashop, SiTypescript, SiBabel } from 'react-icons/si'
+import { SiReact, SiJavascript, SiExpress, SiHandlebarsdotjs, SiMongodb, SiTailwindcss, SiPrestashop, SiTypescript, SiBabel, SiNextdotjs } from 'react-icons/si'
 import { FaHtml5, FaCss3Alt, FaNodeJs, FaBootstrap, FaWordpress, FaGitSquare, FaGithub } from 'react-icons/fa'
 export default class Resume extends Component {
   render() {
@@ -105,6 +105,7 @@ export default class Resume extends Component {
             <li className="hard-li" title="JavaScript"><SiJavascript style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="TypeScript"><SiTypescript style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="React"><SiReact style={{fontSize: "45px"}}/></li>
+            <li className="hard-li" title="NextJS"><SiNextdotjs style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="NodeJS"><FaNodeJs style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="ExpressJS"><SiExpress style={{fontSize: "45px"}}/></li>
             <li className="hard-li" title="Git"><SiBabel style={{fontSize: "45px"}}/></li>

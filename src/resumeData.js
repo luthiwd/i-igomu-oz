@@ -26,7 +26,7 @@ let resumeData = {
         },
         {
           "name":"cv",
-          "url":"https://drive.google.com/file/d/1mh_BkDRfPGhDoti0vl8WFnt-1pNX_Rqo/view?usp=share_link",
+          "url":"https://drive.google.com/file/d/158chb3NGED8uzi5dHtPTmZCQcT8YE6Jz/view?usp=share_link",
           "className":"fa fa-file-o"
         }
       ],
@@ -69,22 +69,22 @@ let resumeData = {
     "skillsDescription":"",
     "skills":[ 
       {
-        "skillname":"Comunicación"
+        "skillname":"Comunicación técnica"
       },
       {
-        "skillname":"Empatía"
+        "skillname":"Resolución de problemas"
       },
       {
-        "skillname":"Pasión por enseñar"
+        "skillname":"Aprendizaje continuo"
       },
       {
-        "skillname":"Propiedad Colectiva"
+        "skillname":"Flexibilidad y adaptabilidad"
       },
       {
         "skillname":"Trabajo en Equipo"
       },
       {
-        "skillname":"Cercano"
+        "skillname":"Gestión de tiempo"
       },
     
     ],
@@ -142,9 +142,9 @@ let resumeData = {
       },
       {
         "name":"Marvelous: En desarrollo",
-        "description":"Aplicación para consultar API de Marvel.",
+        "description":"Aplicación para consultar API de Marvel. Desarrollada con Next13 y HyperUI",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1674583445/marvelproject/marvelous_atlaue.png",
-        "url": "https://marvelousapi.netlify.app"
+        "url": "https://github.com/luthiwd/murvel-next13-hyperui"
       },
     ],
     "testimonials":[

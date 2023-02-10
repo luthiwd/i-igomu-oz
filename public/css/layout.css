@@ -361,34 +361,34 @@ ul#nav li.current a { color: #01BF81 !important;}
 }
 
 .comunicación {
-   width: 95%;
+   width: 90%;
    -moz-animation: comunicación 2s ease;
    -webkit-animation: comunicación 2s ease;
 }
-.empatía {
-   width: 75%;
+.resolución {
+   width: 80%;
    -moz-animation: empatía 2s ease;
    -webkit-animation: empatía 2s ease;
 }
-.pasión{
-   width: 80%;
+.aprendizaje {
+   width: 85%;
    -moz-animation: pasión 2s ease;
    -webkit-animation: pasión 2s ease;
 }
-.propiedad {
+.flexibilidad {
    width: 90%;
    -moz-animation: propiedad 2s ease;
    -webkit-animation: propiedad 2s ease;
 }
 
 .trabajo {
-   width: 80%;
+   width: 85%;
    -moz-animation: trabajo 2s ease;
    -webkit-animation: trabajo 2s ease;
 }
 
-.cercano {
-   width: 90%;
+.gestión {
+   width: 85%;
    -moz-animation: cercano 2s ease;
    -webkit-animation: cercano 2s ease;
 }
