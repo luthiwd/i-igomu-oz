@@ -30,7 +30,7 @@ let resumeData = {
           "className":"fa fa-file-o"
         }
       ],
-    "aboutme":"Me encanta desarrollar para hacer la vida de los demás mas fácil. Me apasiona la informática y todas las herramientas que podemos usar, ya sea software o hardware. Disfruto buscando recursos de programación para aumentar mi eficacia y eficiencia. A nivel laboral, me considero una persona tenaz y resolutiva. Me desenvuelvo bien trabajando tanto en equipo como en solitario y tengo buena capacidad de adaptación. Actualmente, mis competencias abarca React, JavaScript, TypeScript, HTML, CSS, MongoDB (NoSQL DB), Express, NodeJS, Mongoose, Bootstrap, Stripe, Git, Postman, Handlebars...¡Estoy muy motivado por seguir creciendo y aprendiendo en el mundo de la programación y el desarrollo!",
+    "aboutme":"Soy Íñigo, un Full Stack Developer a quien le encanta programar y desarrollar cosas chulas. Me encanta resolver problemas y hacer que la vida sea más fácil para los usuarios, y siempre estoy dispuesto a aprender cosas nuevas. Además de programar, también me encanta el deporte, especialmente la Calistenia. Trato de practicarlo diariamente, pero si no estoy haciendo dominadas, probablemente me encuentres trabajando en un nuevo proyecto emocionante. Tengo experiencia en React, JavaScript, TypeScript, NextJS, HTML, CSS, MongoDB, Express, NodeJS, Mongoose, Bootstrap entre otras. Siempre estoy motivado para seguir aprendiendo y creciendo en el mundo de la programación y el desarrollo.",
     // "address":"annattar@gma",
     // "website":"https://inigomunoz.netlify.app/",
     "education":[
@@ -93,43 +93,68 @@ let resumeData = {
         "name":"Cats",
         "description":"Esquiva Cthulus y captura latas, puedes montarte en una Conga!!!",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546449/imagesportfolio/cats_ifnaqy.png",
-        "url": "https://luthiwd.github.io/Cats/"
+        "url": "https://luthiwd.github.io/Cats/",
+        "giturlf": "https://github.com/luthiwd/Cats"
       },
       {
         "name":"Vinegar",
         "description":"Aplicación destinada a los propietarios de gimnasios y entrenadores. Permite crear ejercicios y rutinas.",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546449/imagesportfolio/vinegar_1_y7kprc.png",
-        "url": "https://vinegar-y9kl.onrender.com/"
+        "url": "https://vinegar-y9kl.onrender.com/",
+        "giturlf": "https://github.com/luthiwd/vinegar"
       },
       {
         "name":"Miecocaja",
-        "description":"MiEcoCaja es una plataforma para los que buscan una manera más sostenible y ecológica de tener los mejores alimentos.",  
+        "description":"Plataforma para los que buscan una manera más sostenible y ecológica de tener los mejores alimentos.",  
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546450/imagesportfolio/miecocaja_1_xz5ub7.png",
-        "url": "https://ecocajas.netlify.app/"
+        "url": "https://ecocajas.netlify.app/",
+        "giturlf": "https://github.com/luthiwd/cajas-ecologicas-client",
+        "giturlb": "https://github.com/luthiwd/cajas-ecologicas-server"
+      },
+      {
+        "name":"BeeMoving",
+        "description":"Aplicación para la gestión, control, mantenimiento de colmenas de abejas.",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546452/imagesportfolio/beemoving_w8gzkc.png",
+        "url": "https://beemoving.netlify.app/",
+        "giturlf": "https://github.com/luthiwd/beemoving-client",
+        "giturlb": "https://github.com/luthiwd/beemoving-server"
+      },
+      {
+        "name":"ApiCats",
+        "description":"Prueba técnica consulta de API y mostrar imagen según parametros de consulta",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1677835668/imagesportfolio/catAPI_pkd13t.png",
+        "url": "",
+        "giturlf": "https://github.com/luthiwd/react-prueba-apiCats",
+        "giturlb": ""
+      },
+      {
+        "name":"SearchMovie",
+        "description":"Prueba técnica busqueda de películas en API y filtrado",
+        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1677835862/imagesportfolio/searchmovie_tcxpd6.png",
+        "url": "",
+        "giturlf": "https://github.com/luthiwd/react-search-movies",
+        "giturlb": ""
       },
       {
         "name":"Uhu Wiki",
-        "description":"Wiki realizada para la Universidad de Huelva, para consultas de profesores y alumnos",
+        "description":"Wiki para la Universidad de Huelva, para consultas de profesores y alumnos",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655982892/imagesportfolio/uhu_mn5ost.png",
-        "url": "https://ayudame.uhu.es/docs/"
+        "url": "https://ayudame.uhu.es/docs/",
+        "giturlf": ""
       },
       {
         "name":"Cerveza Belona",
         "description":"Tienda de Cerveza Artesanal Belona. Desarrollada en Prestashop",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546450/imagesportfolio/belona_qmgrwi.png",
-        "url": "https://cervezabelona.com/"
+        "url": "https://cervezabelona.com/",
+        "giturlf": ""
       },
       {
         "name":"ALMA",
         "description":"Web para la Asociación literaria medieval Arthedain, realizada con Wordpress",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546449/imagesportfolio/alma_1_ec2ib5.png",
-        "url": "https://github.com/luthiwd/Alma-Web"
-      },
-      {
-        "name":"BeeMoving: En desarrollo",
-        "description":"Aplicación para la gestión, control, mantenimiento de colmenas de abejas.",
-        "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1655546452/imagesportfolio/beemoving_w8gzkc.png",
-        "url": "https://beemoving.netlify.app/"
+        "url": "https://github.com/luthiwd/Alma-Web",
+        "giturlf": "https://github.com/luthiwd/Alma-Web"
       },
 
     ],
@@ -138,13 +163,16 @@ let resumeData = {
         "name":"PetCalendary: En desarrollo",
         "description":"Aplicación para la gestión, control de mascotas.",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/c_scale,h_191,w_215/v1664874032/petsdiary/petcal_mcbbgu.png",
-        "url": "https://github.com/luthiwd/petsserver"
+        "url": "",
+        "giturlf":"https://github.com/luthiwd/petsclient",
+        "giturlb":"https://github.com/luthiwd/petsserver"
       },
       {
         "name":"Marvelous: En desarrollo",
         "description":"Aplicación para consultar API de Marvel. Desarrollada con Next13 y HyperUI",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1674583445/marvelproject/marvelous_atlaue.png",
-        "url": "https://github.com/luthiwd/murvel-next13-hyperui"
+        "url": "https://murvel-next13-hyperui-d9th4o8ys-luthiwd.vercel.app/",
+        "giturlf": "https://github.com/luthiwd/murvel-next13-hyperui"
       },
     ],
     "testimonials":[
