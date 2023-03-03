@@ -30,7 +30,7 @@ let resumeData = {
           "className":"fa fa-file-o"
         }
       ],
-    "aboutme":"Soy Íñigo, un Full Stack Developer a quien le encanta programar y desarrollar cosas chulas. Me encanta resolver problemas y hacer que la vida sea más fácil para los usuarios, y siempre estoy dispuesto a aprender cosas nuevas. Además de programar, también me encanta el deporte, especialmente la Calistenia. Trato de practicarlo diariamente, pero si no estoy haciendo dominadas, probablemente me encuentres trabajando en un nuevo proyecto emocionante. Tengo experiencia en React, JavaScript, TypeScript, NextJS, HTML, CSS, MongoDB, Express, NodeJS, Mongoose, Bootstrap entre otras. Siempre estoy motivado para seguir aprendiendo y creciendo en el mundo de la programación y el desarrollo.",
+    "aboutme":"Me encanta programar y desarrollar cosas chulas. Siempre estoy dispuesto a aprender cosas nuevas. Además de programar, también me encanta el deporte, especialmente la Calistenia. Trato de practicarlo diariamente, pero si no estoy haciendo dominadas, probablemente me encuentres trabajando en un nuevo proyecto emocionante. Tengo experiencia en React, JavaScript, TypeScript, NextJS, HTML, CSS, MongoDB, Express, NodeJS, Mongoose, Bootstrap entre otras. Siempre estoy motivado para seguir aprendiendo y creciendo en el mundo de la programación y el desarrollo.",
     // "address":"annattar@gma",
     // "website":"https://inigomunoz.netlify.app/",
     "education":[
