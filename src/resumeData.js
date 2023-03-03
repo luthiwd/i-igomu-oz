@@ -131,7 +131,7 @@ let resumeData = {
         "name":"SearchMovie",
         "description":"Prueba técnica busqueda de películas en API y filtrado",
         "imgurl":"https://res.cloudinary.com/djersm2h6/image/upload/v1677835862/imagesportfolio/searchmovie_tcxpd6.png",
-        "url": "",
+        "url": "https://filmsearch-seven.vercel.app/",
         "giturlf": "https://github.com/luthiwd/react-search-movies",
         "giturlb": ""
       },
