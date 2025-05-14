@@ -43,6 +43,19 @@ let resumeData = {
       },
     ],
     "work":[
+        {
+          "CompanyName": "IAGT 'Amazing Software'",
+          "specialization": "Full Stack Developer & Project Lead",
+          "MonthOfEnter": "Apr",
+          "MonthOfLeaving": "Now",
+          "YearOfLeaving": "2023",
+          "Achievements": `Desarrollo de módulos backend personalizados para PrestaShop y Magento 2, incluyendo lógica de negocio, automatización de procesos, conexión con APIs externas (como SAP), controladores personalizados y servicios desacoplados. 
+        Creación de una API REST completa con autenticación JWT desde cero, orientada a la integración de plataformas externas y móviles.
+        Liderazgo de proyectos técnicos de principio a fin, gestionando la planificación, desarrollo, pruebas y entrega para clientes como Flex, Dentaid, TCM, Servovendi y Alfadyser.
+        Estimación y análisis de tareas técnicas, gestión de sprints y uso de Jira para control de incidencias y seguimiento.
+        Trabajo con arquitecturas limpias, estructuras escalables y orientación a buenas prácticas backend modernas.`
+        },
+
       {
         "CompanyName":"Ironhack",
         "specialization":"Teacher Assistant",
