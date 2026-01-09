@@ -85,21 +85,17 @@ Soporte en plataformas educativas: Moodle, Zoom, Microsoft Teams.
 Documentación técnica y gestión de tickets en entorno Linux.`
     }
   ],
-  "skillsDescription":"Skills técnicos",
-  "skills":[ 
-    { "skillname": "PHP" },
-    { "skillname": "APIs REST" },
-    { "skillname": "PrestaShop" },
-    { "skillname": "BigCommerce" },
-    { "skillname": "SAP Integration" },
-    { "skillname": "MySQL" },
-    { "skillname": "PHPUnit" },
-    { "skillname": "Docker" },
-    { "skillname": "Git" },
-    { "skillname": "Connectif" },
-    { "skillname": "JavaScript (ES6)" },
-    { "skillname": "Node.js (learning)" }
-  ],
+"skillsDescription":"Soft Skills",
+"skills":[ 
+  { "skillname": "Resolución de problemas", "level": "90" },
+  { "skillname": "Comunicación técnica", "level": "85" },
+  { "skillname": "Trabajo en equipo", "level": "85" },
+  { "skillname": "Autonomía", "level": "90" },
+  { "skillname": "Adaptabilidad", "level": "85" },
+  { "skillname": "Atención al detalle", "level": "90" },
+  { "skillname": "Gestión del tiempo", "level": "80" },
+  { "skillname": "Documentación", "level": "85" }
+],
   "portfolio":[
     {
       "name": "API PrestaShop (TCM Gourmet)",
