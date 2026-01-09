@@ -1,5 +1,16 @@
 import React, { Component } from "react";
-import { SiReact, SiJavascript, SiExpress, SiHandlebarsdotjs, SiMongodb, SiTailwindcss, SiPrestashop, SiTypescript, SiBabel, SiNextdotjs, SiMagento, SiPhp} from 'react-icons/si'
+import { 
+  SiPhp, 
+  SiPrestashop, 
+  SiMysql, 
+  SiDocker, 
+  SiJavascript, 
+  SiPostman, 
+  SiJira,
+  SiMongodb,
+  SiExpress,
+  SiReact
+} from 'react-icons/si'
 import { FaHtml5, FaCss3Alt, FaNodeJs, FaBootstrap, FaWordpress, FaGitSquare, FaGithub, FaStripe } from 'react-icons/fa'
 
 export default class Resume extends Component {
@@ -100,31 +111,28 @@ export default class Resume extends Component {
               <span>Hard Skills</span>
             </h1>
           </div>
-        <div className="twelve columns">
-          <ul className="hard-list">
-            <li className="hard-li" title="NodeJS"><FaNodeJs style={{fontSize: "45px"}}/></li>
-            
-            <li className="hard-li" title="JavaScript"><SiJavascript style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="TypeScript"><SiTypescript style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="NextJS"><SiNextdotjs style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="React"><SiReact style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="ExpressJS"><SiExpress style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="MongoDB / Mongoose"><SiMongodb style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Babel"><SiBabel style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Stripe"><FaStripe style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Handlebars"><SiHandlebarsdotjs style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Bootstrap"><FaBootstrap style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Tailwinds"><SiTailwindcss style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Html5"><FaHtml5 style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Css3"><FaCss3Alt style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Github"><FaGithub style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Git"><FaGitSquare style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Wordpress"><FaWordpress style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Prestashop"><SiPrestashop style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="Magento"><SiMagento style={{fontSize: "45px"}}/></li>
-            <li className="hard-li" title="PHP"><SiPhp style={{fontSize: "45px"}}/></li>
-          </ul>
-        </div>
+          <div className="twelve columns">
+            <ul className="hard-list">
+              {/* Stack principal - Producción */}
+              <li className="hard-li" title="PHP"><SiPhp style={{fontSize: "45px"}}/></li>
+              <li className="hard-li" title="PrestaShop"><SiPrestashop style={{fontSize: "45px"}}/></li>
+              <li className="hard-li" title="MySQL"><SiMysql style={{fontSize: "45px"}}/></li>
+              <li className="hard-li" title="JavaScript"><SiJavascript style={{fontSize: "45px"}}/></li>
+              
+              {/* Herramientas */}
+              <li className="hard-li" title="Docker"><SiDocker style={{fontSize: "45px"}}/></li>
+              <li className="hard-li" title="Git"><FaGitSquare style={{fontSize: "45px"}}/></li>
+              <li className="hard-li" title="GitHub"><FaGithub style={{fontSize: "45px"}}/></li>
+              <li className="hard-li" title="Postman"><SiPostman style={{fontSize: "45px"}}/></li>
+              <li className="hard-li" title="Jira"><SiJira style={{fontSize: "45px"}}/></li>
+              
+              {/* Stack secundario - Ironhack/Aprendiendo */}
+              <li className="hard-li" title="Node.js"><FaNodeJs style={{fontSize: "45px"}}/></li>
+              <li className="hard-li" title="Express"><SiExpress style={{fontSize: "45px"}}/></li>
+              <li className="hard-li" title="MongoDB"><SiMongodb style={{fontSize: "45px"}}/></li>
+              <li className="hard-li" title="React"><SiReact style={{fontSize: "45px"}}/></li>
+            </ul>
+          </div>
       </div>
       </section>
         </>
