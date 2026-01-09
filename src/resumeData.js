@@ -87,14 +87,14 @@ Documentación técnica y gestión de tickets en entorno Linux.`
   ],
 "skillsDescription":"Soft Skills",
 "skills":[ 
-  { "skillname": "Resolución de problemas", "level": "90" },
-  { "skillname": "Comunicación técnica", "level": "85" },
-  { "skillname": "Trabajo en equipo", "level": "85" },
-  { "skillname": "Autonomía", "level": "85" },
-  { "skillname": "Adaptabilidad", "level": "85" },
-  { "skillname": "Atención al detalle", "level": "85" },
-  { "skillname": "Gestión del tiempo", "level": "80" },
-  { "skillname": "Documentación", "level": "80" }
+  { "skillname": "Resolución de problemas", "level": 90 },
+  { "skillname": "Comunicación técnica", "level": 85 },
+  { "skillname": "Trabajo en equipo", "level": 85 },
+  { "skillname": "Autonomía", "level": 90 },
+  { "skillname": "Adaptabilidad", "level": 85 },
+  { "skillname": "Atención al detalle", "level": 90 },
+  { "skillname": "Gestión del tiempo", "level": 80 },
+  { "skillname": "Documentación", "level": 85 }
 ],
   "portfolio":[
     {
