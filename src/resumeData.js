@@ -81,25 +81,14 @@ let resumeData = {
     ],
     "skillsDescription":"",
     "skills":[ 
-      {
-        "skillname":"Comunicación técnica"
-      },
-      {
-        "skillname":"Resolución de problemas"
-      },
-      {
-        "skillname":"Aprendizaje continuo"
-      },
-      {
-        "skillname":"Flexibilidad y adaptabilidad"
-      },
-      {
-        "skillname":"Trabajo en Equipo"
-      },
-      {
-        "skillname":"Gestión de tiempo"
-      },
-    
+      { "skillname": "Resolución de problemas", "level": 90 },
+      { "skillname": "Comunicación técnica", "level": 85 },
+      { "skillname": "Trabajo en equipo", "level": 85 },
+      { "skillname": "Autonomía", "level": 90 },
+      { "skillname": "Adaptabilidad", "level": 85 },
+      { "skillname": "Atención al detalle", "level": 90 },
+      { "skillname": "Gestión del tiempo", "level": 80 },
+      { "skillname": "Documentación", "level": 85 }
     ],
     "portfolio":[
       {
