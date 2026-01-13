@@ -98,6 +98,13 @@ Documentación técnica y gestión de tickets en entorno Linux.`
     ],
     "portfolio":[
       {
+        "name": "CounterOffer API",
+        "description": "API REST en Node.js para gestión de contraofertas en ecommerce...",
+        "imgurl": "https://res.cloudinary.com/djersm2h6/image/upload/v1768307348/counteroffer_nouho4.png",
+        "url": "https://counteroffer-api-production.up.railway.app",
+        "giturlf": "https://github.com/luthiwd/counteroffer-api"
+      },
+      {
         "name": "API PrestaShop (TCM Gourmet)",
         "description": "API REST completa para app móvil React Native. 20+ endpoints: autenticación JWT, catálogo, carrito, checkout y pedidos.",
         "imgurl": "https://res.cloudinary.com/djersm2h6/image/upload/v1751021910/prestaapi_er9ssx.png",
